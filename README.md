@@ -1,1 +1,2 @@
 # Bank-Management-System
+This program is a Bank Management System that allows both administrators and account holders to perform various banking operations. The system supports creating and managing accounts, handling deposits and withdrawals, updating account details, and maintaining a record of recent actions. It uses a linked list to store account information and a binary search tree for efficient account searching.
